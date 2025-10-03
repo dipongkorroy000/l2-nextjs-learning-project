@@ -3,7 +3,7 @@
 const ContactPage = () => {
     return (
         <div>
-            <h1 className="text-4xl">This is contact page</h1>
+            <h1 className="my-5 text-center">This is contact page</h1>
         </div>
     );
 };
